@@ -15,17 +15,21 @@
   6.  [License](#License)
   
   ## Usage 
-   Run 'node index.js' and answer the prompts given
-  
-* <a href='https://l1keafox.github.io/EBackEndE/'  target="_blank"> Click here for deployment </a> 
-
+   Run this server to get data via api/#.
+   GET/POST/PUT/DELETE work with routes: categories/ tags /products
 
   
-  ![Website](/assets/images/readme.PNG)
-  
-  ## Installation 
-   1. Download repo 
- 2. Run "node index.js"
+* <a href='https://drive.google.com/file/d/1yg2YoavVui5T80Ls0bw25FMdIhBvFsfr/view'  target="_blank">![Website](/video.PNG)</a> 
+
+
+## Installation 
+
+ 1. Download repo.
+ 2. run "source db/schema.sql" in mysql 
+ 3. "node i"
+ 4. "node run seed"
+ 5. "node server.js"
+ 
   
   
   ## Contributing 
